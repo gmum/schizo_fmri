@@ -1,1 +1,1 @@
-# schizo_fmri
+# Code drop for paper "Machine Learning based identification of suicidal risk in patients with schizophrenia using multi-level resting state fMRI features"
